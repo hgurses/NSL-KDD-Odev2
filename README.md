@@ -1,6 +1,4 @@
-Siber Güvenlik için Veri Madenciliği
-
-NSL-KDD Detaylı Bakış
+Siber Güvenlik için Veri Madenciliği Dersi Proje Ödevi
 
 NSL-KDD Genel Bakış
 
