@@ -90,26 +90,33 @@ Alan olarak ise flag, protocol_type, service alanlarını (label) seçip onları
 Tüm verideki alanların hepsini gösterdik ve başlıklarına göre sayılarını listeledik.
 
 
+
 1.Flag, Protocol_type, ve Service Alanları Üzerinde Çalışma
 NSL-KDD veri kümesinde, analizimizi odakladığımız temel alanlar flag, protocol_type ve
 service'dir. Bu alanlar, ağ trafiğinin çeşitli özelliklerini temsil eder. Bu alanlar üzerinde
 detaylı bir inceleme yaparak, bu veri kümesinin güvenlik analitiği ve sınıflandırma
 problemleri için kullanılabilirliğini anlamaya çalıştık.
+
 2. Kategorilerin İncelenmesi ve Grafiksel Temsili:
 Seçtiğimiz flag, protocol_type ve service alanlarının kategorilerini inceledik. Her bir kategori
 içindeki örnek sayılarını belirleyerek, bu kategorilerin dağılımlarını görselleştirdik. Bu analiz,
 belirli ağ trafiği özelliklerinin veri kümesindeki dağılımını anlamamıza ve potansiyel anormal
 durumları tespit etmemize yardımcı oldu.
-3. Tüm Veri Setinin Genel İncelenmesi ve Sayısal Analiz:
+
+4. Tüm Veri Setinin Genel İncelenmesi ve Sayısal Analiz:
 Ayrıca, NSL-KDD veri kümesinde bulunan tüm alanları gözden geçirip, başlıklarına göre
 sayılarını detaylı bir şekilde listeledik. Bu sayede, veri kümesinin genel yapısı hakkında
 kapsamlı bir anlayış elde ettik. Her bir özellik sütununun veri kümesindeki örnek sayılarına
 odaklanarak, hangi alanların daha yoğun veya seyrek olduğunu belirledik.
+
 Bu analizler, NSL-KDD veri kümesini daha yakından tanımamıza ve üzerinde çalıştığımız
 özelliklerin veri setindeki önemini anlamamıza yardımcı oldu. Her bir kategori ve özellik
 sütunu üzerinde yapılan incelemeler, daha sonra uygulanacak olan makine öğrenimi
 modellerinin başarılı ve verimli bir şekilde eğitebilmemize katkı sağlayacaktır.
 
+Google Colab 
+
+https://colab.research.google.com/drive/1bLIdY5PKhqiNBSr8q0bTAev6DeY-ZTHC?usp=sharing
 
 Dada fazla detay için proje raporunu incelebilirsiniz.
 
